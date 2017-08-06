@@ -12,3 +12,4 @@ Afterwards, right-click (or double-tap on trackpad) on your bookmarks bar, click
 Next, when on plug.dj, first make sure **Video Only Mode (No Avatars)** is enabled.
 You can enable it by clicking on the *Settings Gear* at the bottom right, then clicking on the setting under **Behavior**
 
+Once it is enabled, click on the bookmark you previously made.
