@@ -27,4 +27,4 @@ setTimeout(function() {
   $('#video-only-dj').click(function(){
     API.moderateForceSkip();
   });
-}, 5000);
+}, 2000);
