@@ -15,3 +15,7 @@
 You can enable it by clicking on the *Settings Gear* at the bottom right, then clicking on the setting under **Behavior**
 
 5. Once it is enabled, click on the bookmark you previously made.
+
+------
+
+To remove the 'hack', just refresh the page.
