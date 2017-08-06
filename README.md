@@ -1,8 +1,6 @@
 # QuickHack
 
-If you're using Chrome, install: [this extension](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=en-US).
-
-*(allows YouTube to be played in lower quality)*
+If you're using Chrome, install: [this extension](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=en-US) *(allows YouTube to be played in lower quality)*
 
 Afterwards, right-click (or double-tap on trackpad) on your bookmarks bar, click on **Add Page**, then add whichever **Name** you would like, and put this entire script as the **URL**: 
 
